@@ -282,7 +282,6 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  _posts/2016-02-24-welcome-to-jekyll.md
   - scope:
       path: ""
       type: posts
