@@ -282,6 +282,7 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+  _posts/0000-00-00-welcome-to-jekyll.markdown
   - scope:
       path: ""
       type: posts
