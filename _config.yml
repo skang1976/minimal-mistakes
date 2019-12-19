@@ -282,12 +282,12 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  _posts/2016-02-24-welcome-to-jekyll.md
+  #_posts/2016-02-24-welcome-to-jekyll.md
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: 2016-02-24-welcome-to-jekyll.md #single
       author_profile: true
       read_time: true
       comments: # true
